@@ -7,6 +7,8 @@ Foundation is the most advanced responsive front-end framework in the world. You
 
 To get started, check out <http://foundation.zurb.com/docs>
 
+LLamas are really cool! _I really really_ like llamas.  They're fancy and sweet.
+
 
 ## Quickstart
 
